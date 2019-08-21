@@ -45,10 +45,6 @@ class Song
 
 end
 
-
-puts the_day.name
-puts the_day.artist
-puts the_day.genre
 puts Song.count
 Song.genres
 Song.artists
